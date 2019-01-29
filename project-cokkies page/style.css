@@ -1,0 +1,124 @@
+.container{width:1170px;    margin: 0px auto;}
+.logo{
+width:60%;float:left;}
+.main{	width:40%;float:left;}
+.account{
+	background:#7bae23;
+width:100%;
+	height:70px;
+	
+}
+.logo img{
+margin-left: 5%;}
+.account img{
+	    padding-left: 24px;
+padding-top: 12px;}
+.account p{
+	    margin-top: 2px;
+    padding-left: 10px;
+color: white;}
+.account li{float:left;    list-style: none;
+    margin-left: 7%;}
+.account a{text-decoration:none;}
+	.call h1{
+	float:left;}
+.call img{float: left;
+padding-left: 14px;}
+.call {
+    margin-top: 6%;
+}
+.navigation
+{    display: inline-block;
+	width:100%;
+	height:60px;
+	background:#7bae23;}
+	.nav li{float:left;
+	list-style:none;    padding-left: 95px;
+    padding-top: 6px;}
+	.nav a{
+	color:white; text-decoration:none;    font-size: 19px;}
+	.image{
+		width:20%;
+	height:20px;}
+	.tag{
+		background:pink;
+		color:red;
+	}
+	.banner{background:url(image/Untitled-12.jpg)no-repeat; height:500px;width:100%;}
+	.banner h1{font-family:Cooper Black; font-size:50px;    padding-top:18%;
+    padding-left: 26%;
+    margin-top: 0px; color:white;}
+	.banner img{    padding-left: 35%;}
+	.banner p{
+		    position: relative;
+   padding-left:42%;
+	bottom: 13%;}
+	.featured{
+	background :url(image/Untitled-16.jpg)no-repeat;width:100%;height:105px;
+	}
+	.featured h1{
+		    padding-left: 41%;margin-top:0px;    padding-top: 34px;font-family:Century Gothic;font-size:36px;
+			color:#000000;font-weight: normal;
+	}
+	.product{
+		width:25%; float:left;position:relative;
+	}
+	.pro {
+    position: absolute;
+    top: 65%;
+    
+    background: white;
+    width: 100%;}
+	.pro a{    background: green;
+    padding: 9px;
+    border-radius: 37px;
+    margin-left: 32%;
+    color: wheat;
+    text-decoration: none;}
+	.baner{
+		background :url(image/Untitled-26.jpg)no-repeat;width:100%;height:389px;float:left;
+	}
+	.baner h1{color:white;    padding-left: 30%;    margin-top: 8%;}
+	.baner p{color:white;    text-align: center;}
+.baner a {
+		background: green;
+		 padding: 9px;
+    border-radius: 37px;
+    margin-left: 45%;
+    color: wheat;
+    text-decoration: none;}
+	
+	.cookies{
+		float:left; width:33%;margin-top: 6%;margin-bottom: 6%;position:relative;
+	}
+	.cookies h1{position:absolute;top:25%;color:white;padding-left: 115px;}
+	.cookies a{background:green;
+		 padding: 9px;
+    border-radius: 37px;
+    position:absolute;
+	right:135px;
+	bottom:88px;
+    color: wheat;
+    text-decoration: none; }
+	.letter{background :url(image/Untitled-34.jpg)no-repeat;width:100%;height:349px;float:left;}
+	.letter h1{color:white;text-align:center;padding-top:0px;}
+	.letter p{color:white;text-align:center;    padding-top: 2px;}
+	.letter img{padding-top:2px;
+    position: relative;
+    top: 67px;
+    left: 41%;
+    width: 60px;}
+	.letter input{ border-radius: 20px;
+    margin-left: 34%;
+    padding: 10px; width:44%;}
+	.letter a{background:#7bae23;     padding: 11px 24px 13px 22px;
+    border-radius: 20px;
+    position: relative;
+    right: 108px;
+    color: white;
+    text-decoration: none;}
+	.footer1{width:33%; float:left;}
+		.footer2{width:25%; float:left;}
+			.footer3{width:42%; float:left;}
+			
+			}
